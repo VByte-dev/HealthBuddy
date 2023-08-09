@@ -8,7 +8,7 @@ To run this application on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/VByte-Dev/your-repo.git
    ```
 
 2. Install the required dependencies:
