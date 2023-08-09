@@ -1,2 +1,2 @@
-# healthBuddy
+# HealthBuddy
 📌HealthBuddy
