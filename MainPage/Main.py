@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 def get_nutrition_info(query):
     api_url = f'https://api.api-ninjas.com/v1/nutrition?query={query}'
-    api_key = 'si/4UTmmXL6LxBwrV9EHSg==sZHC1HDXmNSGC1sP'
+    api_key = ''#Your ApiKey
 
     headers = {'X-Api-Key': api_key}
 
